@@ -1,5 +1,7 @@
 # ML-DL-Book-Summary
 
+ML books since I graduated undergraduate.
+
 | Book | Finish Date | Topic 
 |----------|:--------------:|-------|
 |[Applied Predictive Modeling](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?keywords=applied+predictive+modeling&qid=1644021987&sprefix=applied+pre%2Caps%2C446&sr=8-1)|2020-07-05|Machine Learning, Statistics, Caret|
